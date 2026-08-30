@@ -219,10 +219,10 @@ elif option == "🎲 Questions by Area":
         if st.session_state.current_question_idx is not None:
             q_data = df.loc[st.session_state.current_question_idx]
             
-            st.markdown(f"**Question #{int(q_data['Number'])}**", unsafe_allow_html=True)
+            
             
             st.markdown('<div class="question-box">', unsafe_allow_html=True)
-            st.markdown("### 📝 Question:")
+            st.markdown(f"### 📝 Question #{int(q_data['Number'])}:")
             st.write(q_data['Question'])
             st.markdown('</div>', unsafe_allow_html=True)
             
@@ -272,14 +272,10 @@ elif option == "🌀 Completely Random":
         if st.session_state.current_question_idx is not None:
             q_data = df.loc[st.session_state.current_question_idx]
             
-            col1, col2 = st.columns([2, 1])
-            with col1:
-                st.markdown(f"**Area:** {q_data['Area']}")
-            with col2:
-                st.markdown(f"**Question #{int(q_data['Number'])}**")
+            st.markdown(f"**Area:** {q_data['Area']}")
             
             st.markdown('<div class="question-box">', unsafe_allow_html=True)
-            st.markdown("### 📝 Question:")
+            st.markdown(f"### 📝 Question #{int(q_data['Number'])}:")
             st.write(q_data['Question'])
             st.markdown('</div>', unsafe_allow_html=True)
             
