@@ -1,0 +1,501 @@
+Number,Question,Answer,Area
+1,"A body of rock with distinctive characteristics that allow geologists to map, describe, and name it as a distinct unit.",Formation,Geology
+2,"The branch of geology concerned with the study, description, and classification of layered rock sequences and their time relationships.",Stratigraphy,Geology
+3,"Rock formed by the accumulation and lithification of sediment, such as sand, mud, or organic material.",Sedimentary rock,Geology
+4,Rock formed from the cooling and solidification of molten magma or lava.,Igneous rock,Geology
+5,"Rock formed by the transformation of pre-existing rock through heat, pressure, or chemically active fluids.",Metamorphic rock,Geology
+6,"The physical character of a rock, including its mineral composition, texture, and color.",Lithology,Geology
+7,A body of rock with specific characteristics that reflect the environment in which it was deposited.,Facies,Geology
+8,"The physical, chemical, and biological setting in which sediment is deposited, such as a river, delta, or deep marine basin.",Depositional environment,Geology
+9,"A surface representing a gap in the geologic record, where deposition was interrupted by erosion or non-deposition.",Unconformity,Geology
+10,A fracture or zone of fractures in rock along which there has been significant displacement.,Fault,Geology
+11,"A bend in rock layers caused by tectonic stress, forming structures such as anticlines and synclines.",Fold,Geology
+12,"An upward-arched fold in rock layers, often forming a structural trap for hydrocarbons.",Anticline,Geology
+13,"A downward-curved fold in rock layers, with the youngest strata found at its center.",Syncline,Geology
+14,A geologic configuration that allows hydrocarbons to accumulate and be retained within a reservoir rock.,Trap (structural/stratigraphic),Geology
+15,An impermeable rock layer that prevents the upward migration of hydrocarbons out of a reservoir.,Seal (caprock),Geology
+16,A rock rich in organic matter capable of generating oil or gas when subjected to sufficient heat and pressure over time.,Source rock,Geology
+17,"The movement of hydrocarbons from a source rock to a reservoir rock, or within a reservoir.",Migration,Geology
+18,A large depression in the Earth's crust where sediments accumulate over geologic time.,Basin,Geology
+19,"A regional-scale depression filled with sediment, often the site of hydrocarbon generation and accumulation.",Sedimentary basin,Geology
+20,A single layer of sedimentary rock distinguishable from adjacent layers by composition or texture.,Stratum (bed),Geology
+21,"An area where bedrock or sediment is exposed at the Earth's surface, without a cover of soil or vegetation.",Outcrop,Geology
+22,"The boundary marking a time gap between two rock units, often indicating erosion or a depositional hiatus.",Unconformity surface,Geology
+23,"The physical, chemical, and biological changes that sediment undergoes after deposition and before significant metamorphism.",Diagenesis,Geology
+24,"The reduction in sediment volume due to the weight of overlying material, expelling pore fluids and reducing porosity.",Compaction,Geology
+25,"The process by which minerals precipitate in the pore spaces of sediment, binding grains together into solid rock.",Cementation,Geology
+26,A sedimentary rock composed of fragments (clasts) derived from the weathering and erosion of pre-existing rocks.,Clastic rock,Geology
+27,"A sedimentary rock composed primarily of carbonate minerals, such as limestone or dolomite.",Carbonate rock,Geology
+28,"A sedimentary rock composed mostly of calcium carbonate, often formed from marine organism remains.",Limestone,Geology
+29,"A sedimentary rock or mineral composed of calcium magnesium carbonate, often formed through alteration of limestone.",Dolomite,Geology
+30,"A fine-grained sedimentary rock formed from compacted mud, silt, and clay, often acting as a source rock or seal.",Shale,Geology
+31,"A sedimentary rock composed of cemented sand-sized mineral or rock grains, commonly serving as a reservoir rock.",Sandstone,Geology
+32,"A sedimentary rock composed of rounded, gravel-sized fragments cemented within a finer matrix.",Conglomerate,Geology
+33,A naturally occurring inorganic solid with a defined chemical composition and crystal structure.,Mineral,Geology
+34,"A common rock-forming mineral composed of silicon dioxide, known for its hardness and resistance to weathering.",Quartz,Geology
+35,"A group of common rock-forming minerals composed of aluminum silicates, abundant in igneous and metamorphic rocks.",Feldspar,Geology
+36,"A group of fine-grained minerals formed from the weathering of silicate rocks, common in shales and soils.",Clay mineral,Geology
+37,The average diameter of the individual particles that make up a sediment or sedimentary rock.,Grain size,Geology
+38,"The size, shape, and arrangement of the grains or crystals that make up a rock.",Texture (rock),Geology
+39,The layered structure of sedimentary rock resulting from successive depositional events.,Bedding,Geology
+40,"Inclined layering within a sedimentary bed, formed by the migration of ripples or dunes during deposition.",Cross-bedding,Geology
+41,"Very thin layering in sedimentary rock, typically less than one centimeter thick.",Lamination,Geology
+42,"The removal of rock or sediment material by natural agents such as water, wind, or ice.",Erosion,Geology
+43,The physical and chemical breakdown of rocks and minerals at or near the Earth's surface.,Weathering,Geology
+44,"The study of the large-scale processes that shape the structure of the Earth's crust, including plate movement and deformation.",Tectonics,Geology
+45,The theory describing the movement of large rigid plates that make up the Earth's outer shell.,Plate tectonics,Geology
+46,"The gradual sinking or downward movement of the Earth's surface, often associated with sediment loading or fluid extraction.",Subsidence,Geology
+47,"The upward movement of the Earth's crust, often associated with tectonic activity.",Uplift,Geology
+48,"A geologic structure formed when a mobile, less dense material (such as salt) rises and deforms overlying rock layers.",Diapir,Geology
+49,"A dome-shaped structure formed by the upward flow of a salt body, often creating structural traps for hydrocarbons.",Salt dome,Geology
+50,A sedimentary basin formed by the stretching and thinning of the Earth's crust along an extensional fault system.,Rift basin,Geology
+51,A sedimentary basin formed adjacent to a mountain belt due to the flexural loading of the crust.,Foreland basin,Geology
+52,"A tectonically stable continental margin not associated with a plate boundary, often characterized by thick sediment accumulation.",Passive margin,Geology
+53,"A continental margin located at or near a plate boundary, typically associated with seismic and volcanic activity.",Active margin,Geology
+54,A standardized chronological framework used to describe the timing and relationships of events in Earth's history.,Geologic time scale,Geology
+55,"A major division of geologic time, subdivided into periods.",Era,Geology
+56,"A unit of geologic time shorter than an era, used to subdivide Earth's history based on rock strata.",Period (geologic),Geology
+57,"A subdivision of a geologic period, representing a shorter interval of geologic time.",Epoch,Geology
+58,The branch of stratigraphy that uses fossil content to date and correlate rock layers.,Biostratigraphy,Geology
+59,The preserved remains or traces of ancient organisms found within sedimentary rock.,Fossil,Geology
+60,"A fossil used to identify and date the rock strata in which it is found, due to its widespread occurrence over a limited time interval.",Index fossil,Geology
+61,The process of establishing the equivalence of rock units or time intervals across different locations.,Correlation (stratigraphic),Geology
+62,A map showing lines of equal thickness of a given rock unit.,Isopach map,Geology
+63,"A map depicting the elevation of a specific geologic surface, used to identify structural highs and traps.",Structure map,Geology
+64,"A diagram representing a vertical slice through the Earth, showing the arrangement of rock layers and structures.",Cross section (geologic),Geology
+65,The angle at which a rock layer or geologic surface is inclined from the horizontal.,Dip,Geology
+66,The compass direction of the line formed by the intersection of a geologic surface with a horizontal plane.,Strike,Geology
+67,"An unconformity where older, tilted or folded rock layers are overlain by younger, more horizontal layers.",Angular unconformity,Geology
+68,"An unconformity where the rock layers above and below are parallel, but a time gap exists due to erosion or non-deposition.",Disconformity,Geology
+69,An unconformity where sedimentary rock overlies older igneous or metamorphic rock.,Nonconformity,Geology
+70,"A relative fall in sea level causing the shoreline to move seaward, often depositing coarser sediments over finer ones.",Regression (sea level),Geology
+71,"A relative rise in sea level causing the shoreline to move landward, often depositing finer sediments over coarser ones.",Transgression (sea level),Geology
+72,"A branch of stratigraphy that studies rock relationships within a chronological framework of repetitive, genetically related strata bounded by unconformities.",Sequence stratigraphy,Geology
+73,"A sedimentary deposit formed by a turbidity current, typically found in deep marine environments.",Turbidite,Geology
+74,"Sediment accumulated where a river enters a standing body of water, forming a delta.",Deltaic deposit,Geology
+75,Sediment deposited by river processes.,Fluvial deposit,Geology
+76,"Sediment deposited by wind action, typically well-sorted and fine-grained.",Aeolian deposit,Geology
+77,"A sedimentary rock formed by the precipitation of minerals from evaporating water, such as salt or gypsum.",Evaporite,Geology
+78,A hydrocarbon trap formed by changes in porosity or permeability resulting from diagenetic processes rather than structural deformation.,Diagenetic trap,Geology
+79,"A hydrocarbon trap formed by changes in rock type, porosity, or permeability rather than structural deformation.",Stratigraphic trap,Geology
+80,"A hydrocarbon trap formed by deformation of rock layers, such as folding or faulting.",Structural trap,Geology
+81,"The older, typically crystalline igneous or metamorphic rock that underlies sedimentary sequences.",Basement rock,Geology
+82,The rock or sediment layers lying above a specific formation or point of interest.,Overburden,Geology
+83,The proportion of reservoir-quality rock relative to the total thickness of a given interval.,Net-to-gross ratio,Geology
+84,Variability in rock properties such as porosity and permeability throughout a reservoir.,Heterogeneity (reservoir),Geology
+85,"Changes in a rock's mineralogy, texture, or porosity resulting from post-depositional processes.",Diagenetic alteration,Geology
+86,The origin or source area from which the sediment composing a rock was derived.,Provenance,Geology
+87,An assemblage of related sedimentary environments and processes that together produce a characteristic body of sediment.,Depositional system,Geology
+88,"The microscopic study and description of rocks, particularly their mineral composition and texture.",Petrography,Geology
+89,A thinly sliced sample of rock mounted on a glass slide for examination under a microscope.,Thin section,Geology
+90,"The study and reconstruction of the physical geography (land, sea, climate) of the Earth at a given time in the geologic past.",Paleogeography,Geology
+91,The ancient environmental conditions under which a rock or sediment sequence was deposited.,Paleoenvironment,Geology
+92,A graphical representation showing relative changes in sea level through geologic time.,Sea level curve,Geology
+93,"A stratigraphic relationship in which younger strata progressively extend and terminate against an older, inclined surface.",Onlap,Geology
+94,A stratigraphic relationship in which successive depositional units shift progressively basinward over time.,Offlap,Geology
+95,"A fault that displays greater displacement in older strata than in younger ones, indicating movement occurred during deposition.",Growth fault,Geology
+96,"A curved fault surface that becomes shallower in dip with depth, commonly associated with extensional tectonics.",Listric fault,Geology
+97,An elevated block of crust bounded by normal faults on either side.,Horst,Geology
+98,A depressed block of crust bounded by normal faults on either side.,Graben,Geology
+99,"A landscape or subsurface feature formed by the dissolution of soluble rocks such as limestone, often creating cavities and irregular porosity.",Karst,Geology
+100,Pore space in a rock created or modified after deposition through processes such as dissolution or dolomitization.,Diagenetic porosity,Geology
+101,"The process of analyzing well log, core, and other subsurface data to determine the properties and hydrocarbon potential of a formation.",Formation evaluation,Formation Evaluation
+102,"A recorded measurement of a physical property of a formation, plotted against depth, used to characterize the subsurface.",Well log,Formation Evaluation
+103,A method of acquiring formation data using instruments lowered into the wellbore on an electrical cable.,Wireline logging,Formation Evaluation
+104,A technique that acquires formation property data in real time while the well is being drilled.,Logging while drilling (LWD),Formation Evaluation
+105,"A system that measures directional and drilling parameters in real time during drilling, often paired with LWD tools.",Measurement while drilling (MWD),Formation Evaluation
+106,The fraction of a rock's total volume made up of void space capable of storing fluids.,Porosity,Formation Evaluation
+107,"The interconnected pore volume in a rock that can contribute to fluid flow, excluding isolated pores.",Effective porosity,Formation Evaluation
+108,"The total pore volume in a rock, including both connected and isolated pore spaces.",Total porosity,Formation Evaluation
+109,A measure of a rock's ability to allow fluids to flow through its interconnected pore network.,Permeability,Formation Evaluation
+110,"The fraction of pore space in a rock occupied by water, as opposed to hydrocarbons.",Water saturation (Sw),Formation Evaluation
+111,The fraction of pore space in a rock occupied by oil or gas.,Hydrocarbon saturation,Formation Evaluation
+112,The minimum water saturation remaining in a reservoir rock that cannot be further reduced by hydrocarbon displacement.,Irreducible water saturation,Formation Evaluation
+113,"A log that measures the electrical resistivity of a formation, used to help distinguish hydrocarbons from water in the pore space.",Resistivity log,Formation Evaluation
+114,"A log that measures the natural radioactivity of a formation, commonly used to distinguish shale from other lithologies.",Gamma ray log,Formation Evaluation
+115,"A log that records naturally occurring electrical potential differences in the borehole, used to identify permeable zones and formation boundaries.",Spontaneous potential (SP) log,Formation Evaluation
+116,"A log that measures the hydrogen content of a formation, used primarily to estimate porosity.",Neutron log,Formation Evaluation
+117,"A log that measures the bulk density of a formation, used to estimate porosity and identify lithology.",Density log,Formation Evaluation
+118,"A log that measures the travel time of sound waves through a formation, used to estimate porosity and rock mechanical properties.",Sonic log,Formation Evaluation
+119,"A log that measures the diameter of the wellbore, used to detect washouts, mud cake, and other borehole irregularities.",Caliper log,Formation Evaluation
+120,A thin layer of solids deposited on the wellbore wall by drilling fluid filtrate invading a permeable formation.,Mud cake,Formation Evaluation
+121,The process by which the liquid component of drilling fluid penetrates a permeable formation near the wellbore.,Invasion (mud filtrate invasion),Formation Evaluation
+122,The region near the wellbore where formation fluids have been largely displaced by mud filtrate.,Flushed zone,Formation Evaluation
+123,The region of a formation affected by the invasion of drilling fluid filtrate.,Invaded zone,Formation Evaluation
+124,The undisturbed part of a formation beyond the reach of drilling fluid invasion.,Virgin zone,Formation Evaluation
+125,"A parameter relating the resistivity of a fully water-saturated rock to the resistivity of the water itself, related to porosity.",Formation factor,Formation Evaluation
+126,"A widely used empirical formula relating water saturation to porosity, formation water resistivity, and formation resistivity.",Archie's equation,Formation Evaluation
+127,"The thickness of reservoir rock that meets specified minimum criteria for porosity, permeability, and hydrocarbon saturation to be considered productive.",Net pay,Formation Evaluation
+128,"The total thickness of a reservoir interval, including both productive and non-productive rock.",Gross pay,Formation Evaluation
+129,The proportion of net pay relative to the gross thickness of a given interval.,Net-to-gross ratio,Formation Evaluation
+130,A minimum or maximum threshold value applied to a petrophysical property to distinguish reservoir from non-reservoir rock.,Cutoff (petrophysical),Formation Evaluation
+131,"The fraction of a rock volume occupied by shale, typically estimated from gamma ray or other logs.",Shale volume (Vsh),Formation Evaluation
+132,"The process of determining rock type from log responses, core data, or cuttings.",Lithology identification,Formation Evaluation
+133,Laboratory measurement of physical and petrophysical properties on a physical rock sample recovered from the well.,Core analysis,Formation Evaluation
+134,"Standard laboratory measurements performed on core samples, typically including porosity, permeability, and fluid saturation.",Routine core analysis (RCAL),Formation Evaluation
+135,"Advanced laboratory tests on core samples, such as relative permeability, capillary pressure, and wettability studies.",Special core analysis (SCAL),Formation Evaluation
+136,"The pressure difference across the interface between two immiscible fluids in a porous medium, influencing fluid distribution.",Capillary pressure,Formation Evaluation
+137,"The ratio of the effective permeability of a fluid phase to the absolute permeability of the rock, when more than one fluid is present.",Relative permeability,Formation Evaluation
+138,The process of measuring pressure and collecting fluid samples directly from a formation using downhole tools.,Formation testing,Formation Evaluation
+139,A wireline tool used to measure formation pressure and collect fluid samples at multiple depths in a well.,Repeat formation tester (RFT),Formation Evaluation
+140,"A temporary completion test performed during drilling to evaluate the production potential, pressure, and fluid type of a formation.",Drill stem test (DST),Formation Evaluation
+141,"The rate of change of pressure with depth within a fluid column, used to identify fluid contacts and fluid types.",Pressure gradient,Formation Evaluation
+142,"The boundary depth separating two different fluids in a reservoir, such as the oil-water or gas-oil contact.",Fluid contact,Formation Evaluation
+143,The depth in a reservoir marking the boundary between the gas cap and the underlying oil zone.,Gas-oil contact (GOC),Formation Evaluation
+144,The depth in a reservoir marking the boundary between the oil zone and the underlying water zone.,Oil-water contact (OWC),Formation Evaluation
+145,"The depth at which capillary pressure between water and hydrocarbon is theoretically zero, used as a reference for fluid contacts.",Free water level (FWL),Formation Evaluation
+146,"The process of describing the geometry, properties, and heterogeneity of a reservoir using integrated geologic and petrophysical data.",Reservoir characterization,Formation Evaluation
+147,The study of the physical and chemical properties of rocks and their interaction with fluids.,Petrophysics,Formation Evaluation
+148,"The process of analyzing well log responses to determine formation properties such as lithology, porosity, and fluid content.",Log interpretation,Formation Evaluation
+149,A graphical technique that plots two or more log measurements against each other to help identify lithology or fluid type.,Cross-plot (log analysis),Formation Evaluation
+150,A cross-plot of resistivity versus porosity used to estimate water saturation and identify hydrocarbon-bearing zones.,Pickett plot,Formation Evaluation
+151,The electrical resistivity of the water contained within a formation's pore space.,Formation water resistivity (Rw),Formation Evaluation
+152,The electrical resistivity of the liquid portion of drilling fluid that invades a permeable formation.,Mud filtrate resistivity (Rmf),Formation Evaluation
+153,"The actual, uninvaded resistivity of a formation, ideally reflecting its true fluid content.",True resistivity (Rt),Formation Evaluation
+154,"The resistivity value measured by a logging tool, which may be affected by invasion, borehole effects, or adjacent beds.",Apparent resistivity,Formation Evaluation
+155,The depth marking the transition between two distinct rock layers with differing properties.,Bed boundary,Formation Evaluation
+156,The smallest bed thickness that a logging tool can accurately distinguish or measure.,Vertical resolution (logging),Formation Evaluation
+157,"Adjustments applied to raw log measurements to account for effects such as borehole size, mud type, and temperature.",Borehole environment correction,Formation Evaluation
+158,"A high-resolution log that provides a visual representation of the borehole wall, used to identify fractures, bedding, and structural features.",Formation image log,Formation Evaluation
+159,A logging tool used to measure the dip and azimuth of formation bedding planes.,Dipmeter,Formation Evaluation
+160,"A logging technique that measures the response of hydrogen nuclei in formation fluids, used to estimate porosity, pore size, and fluid type.",NMR logging (nuclear magnetic resonance),Formation Evaluation
+161,A logging technique that measures the elemental composition of a formation to aid in lithology and mineralogy determination.,Elemental capture spectroscopy,Formation Evaluation
+162,"The continuous monitoring and recording of drilling parameters, cuttings, and gas readings during drilling operations.",Mud logging,Formation Evaluation
+163,"An indication of the presence of oil or gas in cuttings, cores, or mud, observed during drilling.",Show (hydrocarbon show),Formation Evaluation
+164,The examination of rock fragments brought to surface during drilling to help determine lithology and hydrocarbon presence.,Cuttings analysis,Formation Evaluation
+165,"A small rock sample taken directly from the wellbore wall using a specialized wireline tool, without removing the drill string.",Sidewall core,Formation Evaluation
+166,A continuous cylindrical rock sample recovered from the wellbore using a coring bit and core barrel.,Whole core,Formation Evaluation
+167,"A qualitative and quantitative assessment of a rock's ability to store and transmit fluids, based on porosity and permeability.",Reservoir quality,Formation Evaluation
+168,"The variation of rock properties, such as porosity and permeability, throughout a reservoir.",Heterogeneity (reservoir),Formation Evaluation
+169,"The variation of a rock property, such as permeability or resistivity, depending on the direction of measurement.",Anisotropy,Formation Evaluation
+170,A measurement taken to determine the pore pressure of a formation at a specific depth.,Formation pressure test,Formation Evaluation
+171,A condition in which formation pressure is significantly higher than the normal hydrostatic pressure expected at a given depth.,Overpressure,Formation Evaluation
+172,Formation pressure that is consistent with the hydrostatic gradient expected from a column of formation water.,Normal pressure,Formation Evaluation
+173,The rate at which temperature increases with depth within the Earth's subsurface.,Temperature gradient,Formation Evaluation
+174,"The temperature measured at the bottom of the wellbore, often recorded during logging operations.",Bottom hole temperature (BHT),Formation Evaluation
+175,A factor used to convert the volume of oil or gas at reservoir conditions to its equivalent volume at surface conditions.,Formation volume factor,Formation Evaluation
+176,"The process of collecting a representative sample of reservoir fluid, typically using a downhole formation tester.",Fluid sampling,Formation Evaluation
+177,"Laboratory analysis of the pressure-volume-temperature behavior of reservoir fluids, used to characterize fluid properties.",PVT analysis,Formation Evaluation
+178,The tendency of a rock surface to preferentially be in contact with one fluid phase (such as water or oil) over another.,Wettability,Formation Evaluation
+179,"A measure of the complexity of the flow path through a porous medium, relative to a straight-line path.",Tortuosity,Formation Evaluation
+180,"The density of the solid mineral material composing a rock, excluding pore space.",Grain density,Formation Evaluation
+181,"The overall density of a rock, including both the solid mineral framework and the fluids within its pore space.",Bulk density,Formation Evaluation
+182,"A reference log value representing the typical response of shale, used as a comparison point in log interpretation.",Shale baseline,Formation Evaluation
+183,A reference log value representing the typical response of a hydrocarbon- or water-bearing sand with minimal shale content.,Clean sand line,Formation Evaluation
+184,"The angle of inclination of a rock layer relative to horizontal, as observed at a specific location.",Formation dip,Formation Evaluation
+185,"A measurement of the wellbore's inclination and azimuth at various depths, used to determine its trajectory.",Deviation survey,Formation Evaluation
+186,The process of adjusting log data from different tools or wells to a common reference scale for consistent comparison.,Log normalization,Formation Evaluation
+187,"A rapid, approximate evaluation of formation properties using standard log cross-plots and rules of thumb.",Quick-look interpretation,Formation Evaluation
+188,"A mathematical framework used to relate log measurements to formation properties such as porosity, saturation, and lithology.",Petrophysical model,Formation Evaluation
+189,A petrophysical model that accounts for the effect of clay content when estimating porosity and water saturation in shaly reservoirs.,Shaly sand model,Formation Evaluation
+190,A petrophysical model that distinguishes between clay-bound water and free formation water when calculating water saturation.,Dual water model,Formation Evaluation
+191,"A high-resolution wireline tool that generates detailed images of the borehole wall to identify fractures, faults, and bedding features.",Formation micro-imager (FMI),Formation Evaluation
+192,"The product of a rock's density and its acoustic velocity, used in seismic and log-based reservoir characterization.",Acoustic impedance,Formation Evaluation
+193,"A type of sound wave in which particle motion is parallel to the direction of wave propagation, measured by sonic logging tools.",Compressional wave (P-wave),Formation Evaluation
+194,"A type of sound wave in which particle motion is perpendicular to the direction of wave propagation, used to assess rock mechanical properties.",Shear wave (S-wave),Formation Evaluation
+195,"Physical characteristics of a rock, such as elasticity and strength, that describe how it responds to stress.",Rock mechanical properties,Formation Evaluation
+196,"A measure of a rock's stiffness, describing the relationship between stress and strain under uniaxial loading.",Young's modulus,Formation Evaluation
+197,A measure of a rock's tendency to deform in directions perpendicular to an applied load.,Poisson's ratio,Formation Evaluation
+198,"Physical characteristics describing how a rock deforms and recovers under applied stress, important for geomechanics.",Elastic properties,Formation Evaluation
+199,"A reduction in the natural permeability of a formation near the wellbore caused by drilling, completion, or production processes.",Formation damage,Formation Evaluation
+200,A dimensionless parameter representing additional pressure drop near the wellbore due to formation damage or stimulation.,Skin factor,Formation Evaluation
+201,"The machine and structure used to drill a wellbore, including the derrick, drawworks, mud pumps, and power generation equipment.",Rig,Drilling
+202,A large valve installed at the wellhead that can be closed to control pressure and prevent an uncontrolled flow of formation fluids to surface.,BOP (Blowout Preventer),Drilling
+203,"A liquid or gas circulated through the well during drilling to cool the bit, carry cuttings to surface, and control formation pressure.",Drilling fluid (mud),Drilling
+204,"The assembly of pipe, tools, and the bit connecting the surface equipment to the bottom of the hole, used to transmit rotation and weight.",Drill string,Drilling
+205,The cutting tool at the bottom of the drill string responsible for crushing or shearing the rock formation.,Drill bit,Drilling
+206,Large-diameter steel pipe run into an openhole and cemented in place to provide structural support and isolate formations.,Casing,Drilling
+207,The process of pumping cement slurry into the annular space between the casing and the formation to secure the casing and isolate zones.,Cementing,Drilling
+208,The surface equipment that supports the casing and production strings and provides control access to the well.,Wellhead,Drilling
+209,"An unwanted influx of formation fluids (gas, oil, or water) into the wellbore because formation pressure exceeds the pressure exerted by the mud.",Kick,Drilling
+210,"An uncontrolled flow of formation fluids to the surface, typically the result of an unmanaged kick.",Blowout,Drilling
+211,"The density of the drilling fluid, used to control formation pressure while drilling.",Mud weight,Drilling
+212,"The space between two concentric objects in the well, such as between the drill string and the wellbore wall, or between two casing strings.",Annulus,Drilling
+213,The pressure exerted by fluids contained within the pore spaces of a rock formation.,Formation pressure,Drilling
+214,The pressure of fluid held within the pore spaces of a rock.,Pore pressure,Drilling
+215,"The pressure required to fracture a formation at a given depth, expressed per unit of depth.",Fracture gradient,Drilling
+216,A drilling technique that intentionally controls the wellbore trajectory to reach a target other than straight down.,Directional drilling,Drilling
+217,A well drilled so its final section is oriented at roughly 90 degrees from vertical within the reservoir.,Horizontal well,Drilling
+218,The angle between the wellbore axis and the vertical at a given point.,Deviation,Drilling
+219,"The hole drilled into the earth during exploration or production operations, whether cased or open.",Wellbore,Drilling
+220,A section of the wellbore that has not been cased or cemented.,Openhole,Drilling
+221,A polygonal-section pipe that transmits rotation from the rotary table to the drill string.,Kelly,Drilling
+222,"A motorized system suspended in the derrick that rotates the drill string from the top, replacing the rotary table and kelly.",Top drive,Drilling
+223,A drilling rig component that provides rotation to the drill string.,Rotary table,Drilling
+224,The vertical structure that supports the weight of the drill string and allows pipe handling during operations.,Derrick,Drilling
+225,"The hoisting system of the drilling rig that controls the vertical movement of the traveling block, string, and other equipment.",Drawworks,Drilling
+226,A high-pressure pump that circulates drilling fluid from the mud tanks down through the drill string and back.,Mud pump,Drilling
+227,Surface equipment that separates drill cuttings from the mud using vibrating screens.,Shale shaker,Drilling
+228,Rock fragments generated by the cutting action of the bit during drilling.,Cuttings,Drilling
+229,A technique that acquires formation property data in real time while drilling the well.,Logging while drilling (LWD),Drilling
+230,"A system that measures directional and drilling parameters (inclination, azimuth) in real time while drilling.",Measurement while drilling (MWD),Drilling
+231,A method of acquiring formation data using tools lowered into the well on an electrical cable.,Wireline logging,Drilling
+232,The process of extracting a cylindrical rock sample (core) from a formation for laboratory analysis.,Coring,Drilling
+233,The process of creating holes through the casing and cement to establish communication between the wellbore and the producing formation.,Perforating,Drilling
+234,The set of operations performed after drilling to prepare a well for production.,Completion,Drilling
+235,"An operation performed on an existing well to repair, maintain, or improve its production capability.",Workover,Drilling
+236,"An operation aimed at recovering tools, pipe, or foreign objects that have become stuck or lost in the wellbore.",Fishing,Drilling
+237,"A condition in which the drill string cannot move freely within the wellbore due to friction, formation collapse, or other factors.",Stuck pipe,Drilling
+238,The rotational force applied to the drill string needed to turn the bit.,Torque,Drilling
+239,The frictional resistance opposing the axial movement of the drill string within the wellbore.,Drag,Drilling
+240,The axial force applied to the bit to facilitate rock cutting during drilling.,Weight on bit (WOB),Drilling
+241,"The speed at which the bit advances through the formation, typically expressed in feet or meters per hour.",Rate of penetration (ROP),Drilling
+242,Continuous monitoring of mud and cuttings characteristics during drilling to detect hydrocarbon shows.,Mud logging,Drilling
+243,"The lower section of the drill string that includes the bit, downhole motors, stabilizers, and measurement tools.",Bottom hole assembly (BHA),Drilling
+244,A thick-walled section of pipe located at the bottom of the string that provides weight to the bit.,Drill collar,Drilling
+245,A tool incorporated in the drill string to keep the bit centered and help control wellbore trajectory.,Stabilizer,Drilling
+246,A downhole tool that converts hydraulic energy from the drilling fluid into mechanical rotation for the bit.,Mud motor,Drilling
+247,A downhole tool that allows directional control of the wellbore trajectory while continuously rotating the string.,Rotary steerable system (RSS),Drilling
+248,"The operation of pulling or running the entire drill string in or out of the wellbore, usually to change the bit or other equipment.",Trip,Drilling
+249,The act of lowering (in) or removing (out) the drill string from the wellbore.,Tripping in / tripping out,Drilling
+250,"A device that restricts fluid flow to control wellbore pressure, especially used during well control operations.",Choke,Drilling
+251,An assembly of valves and lines at surface used to control wellbore pressure during well control operations.,Choke manifold,Drilling
+252,The set of techniques and procedures used to prevent or manage the uncontrolled flow of formation fluids.,Well control,Drilling
+253,Higher-density mud used to regain control of a well that has experienced a kick.,Kill mud,Drilling
+254,"The continuous process of pumping drilling fluid from surface, through the string, and back up the annulus.",Circulation,Drilling
+255,The partial or total loss of drilling fluid into the formation instead of returning to surface.,Lost circulation,Drilling
+256,The moment when drilling of a new well formally begins.,Spud,Drilling
+257,The final depth reached by a well at the conclusion of drilling.,Total depth (TD),Drilling
+258,"The drilling of a new wellbore trajectory from an existing point within a well, typically to bypass an obstruction or reach a new target.",Sidetrack,Drilling
+259,A component located at the bottom end of the casing string that guides it into the hole and aids cementing.,Casing shoe,Drilling
+260,A casing string that does not extend to surface but is instead hung from an earlier casing string.,Liner,Drilling
+261,Devices installed near the bottom of the casing that prevent backflow of cement and fluid into the pipe during cementing.,Float equipment,Drilling
+262,A device installed on casing to keep it centered in the wellbore and improve cement job quality.,Centralizer,Drilling
+263,"A mixture of cement, water, and additives pumped into the well during cementing operations.",Cement slurry,Drilling
+264,A remedial technique that forces cement through perforations or cracks to seal off unwanted zones.,Squeeze cementing,Drilling
+265,The set of methods used to determine the physical properties and production potential of a formation.,Formation evaluation,Drilling
+266,A porous and permeable rock formation containing accumulations of hydrocarbons.,Reservoir,Drilling
+267,The ability of a rock to allow fluids to flow through its interconnected pore spaces.,Permeability,Drilling
+268,The fraction of a rock's total volume that consists of void space capable of storing fluids.,Porosity,Drilling
+269,A condition in which the mud's hydrostatic pressure is greater than the formation pressure.,Overbalance,Drilling
+270,"A condition in which the mud's hydrostatic pressure is less than the formation pressure, potentially allowing fluids into the wellbore.",Underbalance,Drilling
+271,A drilling technique that uses a closed system to precisely control annular pressure throughout the operation.,Managed pressure drilling (MPD),Drilling
+272,A drilling method in which wellbore pressure is intentionally kept below formation pressure.,Underbalanced drilling (UBD),Drilling
+273,A section of the well that has been cased and cemented.,Cased hole,Drilling
+274,"The acceptable range of mud weights, bounded by the pore pressure gradient and the fracture gradient.",Drilling window,Drilling
+275,The process of effectively removing drill cuttings from the wellbore through fluid circulation.,Hole cleaning,Drilling
+276,Pressure changes in the wellbore caused by the upward (swab) or downward (surge) movement of the drill string.,Swab / surge,Drilling
+277,Modeling that estimates torque and friction forces expected to act on the string before or during drilling of a directional well.,Torque and drag analysis,Drilling
+278,The ability of the wellbore walls to remain intact without collapsing or fracturing during and after drilling.,Wellbore stability,Drilling
+279,A condition in which the drill string becomes stuck against the wellbore wall due to a pressure differential between the mud and the formation.,Differential sticking,Drilling
+280,Metal objects or other foreign material that fall into or become lodged in the wellbore.,Junk,Drilling
+281,A wedge-shaped tool used to deflect the bit's path at the start of a sidetrack.,Whipstock,Drilling
+282,The application of a mechanical impact using a tool called a jar to help free stuck pipe.,Jarring,Drilling
+283,The operation of passing back through and enlarging the diameter of an already-drilled hole using a rotating tool.,Reaming,Drilling
+284,The depth at which the trajectory of a directional well begins to be intentionally deviated.,Kick-off point (KOP),Drilling
+285,"The rate at which the inclination angle of a directional well increases, expressed in degrees per unit of depth.",Build rate,Drilling
+286,"A measure of the rate of change of wellbore direction and inclination per unit length, indicating how sharp a bend is.",Dogleg severity,Drilling
+287,The horizontal direction of the wellbore trajectory measured in degrees relative to north.,Azimuth,Drilling
+288,The angle between the wellbore axis and true vertical at a given point.,Inclination,Drilling
+289,The vertical distance measured from surface to a given point in the wellbore.,True vertical depth (TVD),Drilling
+290,"The total length of the wellbore path measured along its course, rather than in a straight vertical line.",Measured depth (MD),Drilling
+291,The complete assembly of casing installed in a specific section of the wellbore.,Casing string,Drilling
+292,"The first string of casing set in a well, protecting shallow aquifers and providing initial structural support.",Surface casing,Drilling
+293,A casing string set between the surface casing and the production casing to isolate problem zones.,Intermediate casing,Drilling
+294,The final casing string installed to allow controlled production of hydrocarbons.,Production casing,Drilling
+295,"The first pipe installed in a well, intended to prevent the collapse of unconsolidated near-surface sediments.",Conductor casing,Drilling
+296,"A surface reservoir used to store, treat, and condition the drilling fluid.",Mud tank,Drilling
+297,The equipment and processes used to remove unwanted solids from the drilling fluid.,Solids control,Drilling
+298,A pipe connecting surface drilling equipment (rig/platform) to a subsea wellhead in offshore operations.,Riser,Drilling
+299,A wellhead installed on the seabed in offshore drilling operations.,Subsea wellhead,Drilling
+300,A mobile offshore drilling platform that rests on the seabed using extendable legs.,Jack-up rig,Drilling
+301,A geophysical method that uses generated sound waves and their reflections from subsurface layers to image the Earth's structure.,Seismic survey,Petrophysics
+302,A returning seismic wave generated when energy encounters a boundary between rock layers with differing acoustic properties.,Seismic reflection,Petrophysics
+303,A geophysical method that analyzes seismic waves bent (refracted) at boundaries between layers of differing velocity.,Seismic refraction,Petrophysics
+304,"A seismic survey that images a single vertical plane, or line, through the subsurface.",2D seismic,Petrophysics
+305,"A seismic survey that images a volume of the subsurface, providing spatial detail in three dimensions.",3D seismic,Petrophysics
+306,"Repeated 3D seismic surveys acquired over time at the same location, used to monitor changes in a reservoir during production.",4D seismic (time-lapse seismic),Petrophysics
+307,"A device, such as a vibrator truck or air gun, used to generate seismic energy for a survey.",Seismic source,Petrophysics
+308,"A land seismic source that generates a controlled, swept-frequency vibration transmitted into the ground through a truck-mounted plate.",Vibroseis,Petrophysics
+309,A marine seismic source that releases compressed air into water to generate a seismic pulse.,Air gun,Petrophysics
+310,A sensor used on land to detect and record ground motion caused by seismic waves.,Geophone,Petrophysics
+311,A sensor used in marine environments to detect pressure changes caused by seismic waves in water.,Hydrophone,Petrophysics
+312,"A cable towed behind a vessel containing hydrophones, used to record seismic data in marine surveys.",Streamer,Petrophysics
+313,"A seismic recording instrument placed on the seafloor to capture seismic data, often used where streamers are impractical.",Ocean bottom seismometer (OBS),Petrophysics
+314,The sequence of computational steps applied to raw seismic data to produce an interpretable image of the subsurface.,Seismic processing,Petrophysics
+315,"A seismic processing step that repositions reflected energy to its correct subsurface location, improving image accuracy.",Migration (seismic),Petrophysics
+316,A seismic processing step that combines multiple traces to improve the signal-to-noise ratio of the final image.,Stacking (seismic),Petrophysics
+317,A seismic processing technique used to improve resolution by removing the effects of the source wavelet from recorded data.,Deconvolution,Petrophysics
+318,"The variation in seismic travel time with source-receiver offset for a reflection from a horizontal layer, corrected during processing.",Normal moveout (NMO),Petrophysics
+319,"A subsurface reflection point shared by multiple source-receiver pairs, used to improve data quality through stacking.",Common depth point (CDP),Petrophysics
+320,"A single recording of ground or pressure motion over time at one receiver location, forming the basic unit of seismic data.",Seismic trace,Petrophysics
+321,"The magnitude of a seismic wave, often used to infer rock and fluid properties within a formation.",Amplitude (seismic),Petrophysics
+322,A seismic analysis technique that studies changes in reflection amplitude with source-receiver distance to help identify fluid content.,Amplitude versus offset (AVO),Petrophysics
+323,"A quantitative measure derived from seismic data, used to highlight specific geologic or reservoir characteristics.",Seismic attribute,Petrophysics
+324,"A technique that transforms seismic reflection data into quantitative rock property estimates, such as acoustic impedance.",Seismic inversion,Petrophysics
+325,"The product of rock density and seismic velocity, used to characterize subsurface layers from seismic data.",Acoustic impedance,Petrophysics
+326,The speed at which a seismic wave travels through a given rock layer.,Seismic velocity,Petrophysics
+327,"The seismic velocity of a specific layer between two boundaries, as opposed to an average velocity from the surface.",Interval velocity,Petrophysics
+328,"The mean seismic velocity of all layers above a given depth, measured from the surface.",Average velocity,Petrophysics
+329,The process of converting seismic data recorded in travel time into estimated subsurface depth using velocity information.,Time-depth conversion,Petrophysics
+330,"A representation of how seismic velocity varies throughout the subsurface, used for time-depth conversion and imaging.",Velocity model,Petrophysics
+331,The total time for a seismic wave to travel from the source down to a reflector and back up to a receiver.,Two-way travel time (TWT),Petrophysics
+332,The ability of seismic data to distinguish between closely spaced geologic features.,Seismic resolution,Petrophysics
+333,A seismic survey in which sources are placed at the surface and receivers are positioned within a wellbore to calibrate and enhance surface seismic data.,Vertical seismic profile (VSP),Petrophysics
+334,"A well survey that records the travel time of seismic waves from a surface source to receivers at known depths in a wellbore, used to calibrate seismic data.",Checkshot survey,Petrophysics
+335,"A modeled seismic trace generated from well log data, used to tie well information to seismic data.",Synthetic seismogram,Petrophysics
+336,The correlation of well log or geologic data with seismic data to calibrate depth and improve interpretation.,Well tie,Petrophysics
+337,A mapped surface within a seismic volume representing a specific geologic boundary or reflector.,Horizon (seismic),Petrophysics
+338,"The process of analyzing processed seismic data to identify geologic structures, stratigraphy, and potential hydrocarbon indicators.",Seismic interpretation,Petrophysics
+339,A high-amplitude seismic anomaly that can indicate the presence of gas within a reservoir.,Bright spot,Petrophysics
+340,A low-amplitude seismic anomaly that can indicate a change in fluid content or lithology within a reservoir.,Dim spot,Petrophysics
+341,"A flat, horizontal seismic reflection often associated with a fluid contact, such as a gas-oil or oil-water boundary.",Flat spot,Petrophysics
+342,"A seismic anomaly, such as a bright spot or flat spot, that suggests the possible presence of hydrocarbons.",Direct hydrocarbon indicator (DHI),Petrophysics
+343,A geophysical method that measures variations in the Earth's gravitational field to infer subsurface density differences.,Gravity survey,Petrophysics
+344,A geophysical method that measures variations in the Earth's magnetic field to infer subsurface geologic features.,Magnetic survey,Petrophysics
+345,An instrument used to measure small variations in the Earth's gravitational field.,Gravimeter,Petrophysics
+346,An instrument used to measure variations in the Earth's magnetic field.,Magnetometer,Petrophysics
+347,A geophysical method that uses electromagnetic fields to detect variations in subsurface electrical resistivity.,Electromagnetic survey (EM),Petrophysics
+348,"A marine electromagnetic survey technique that uses a towed source to detect resistive bodies, such as hydrocarbon reservoirs, beneath the seafloor.",Controlled-source electromagnetics (CSEM),Petrophysics
+349,A geophysical method that uses natural variations in the Earth's electric and magnetic fields to investigate subsurface resistivity.,Magnetotellurics (MT),Petrophysics
+350,"A deviation from the expected gravitational field value, indicating a subsurface density contrast.",Gravity anomaly,Petrophysics
+351,A gravity anomaly value corrected for the effects of elevation and the mass of rock beneath a survey station.,Bouguer anomaly,Petrophysics
+352,"The state of gravitational equilibrium between the Earth's crust and mantle, influencing regional gravity measurements.",Isostasy,Petrophysics
+353,"The characteristic waveform generated by a seismic source, whose shape influences the resolution and character of the recorded data.",Wavelet (seismic),Petrophysics
+354,A measure comparing the strength of a desired seismic signal to the level of background noise in the data.,Signal-to-noise ratio,Petrophysics
+355,An unwanted seismic reflection that has bounced more than once between subsurface layers or the surface before being recorded.,Multiple (seismic),Petrophysics
+356,An unwanted seismic reflection caused by energy traveling upward from the source or downward from the receiver before being recorded.,Ghost reflection,Petrophysics
+357,An adjustment applied to seismic data to compensate for near-surface elevation and velocity variations.,Static correction,Petrophysics
+358,An adjustment applied to seismic data to correct for travel time variations related to source-receiver offset.,Dynamic correction,Petrophysics
+359,The horizontal distance between a seismic source and a receiver.,Offset (seismic),Petrophysics
+360,"The number of individual traces combined during stacking to produce a single output trace, related to data redundancy.",Fold (seismic),Petrophysics
+361,A small subsurface area used to group and organize seismic traces during 3D data processing.,Bin (seismic),Petrophysics
+362,"The range of frequencies present in a seismic signal, influencing the resolution of subsurface imaging.",Seismic bandwidth,Petrophysics
+363,"A seismic wavelet shape that is symmetric around a central peak, generally preferred for accurate interpretation.",Zero-phase wavelet,Petrophysics
+364,A seismic wavelet shape in which most of the energy is concentrated near the beginning of the waveform.,Minimum-phase wavelet,Petrophysics
+365,"Seismic data that has not yet been combined (stacked) across multiple source-receiver pairs, retaining offset information.",Prestack data,Petrophysics
+366,"Seismic data that has already been combined (stacked) into a single trace per location, simplifying the volume for interpretation.",Poststack data,Petrophysics
+367,"A seismic imaging technique that repositions reflectors using a velocity model, producing results in the time domain.",Time migration,Petrophysics
+368,"A seismic imaging technique that repositions reflectors using a velocity model, producing results directly in depth.",Depth migration,Petrophysics
+369,"An advanced seismic imaging technique applied before stacking that positions reflectors in true depth, often used in structurally complex areas.",Pre-stack depth migration (PSDM),Petrophysics
+370,The variation of seismic velocity with the direction of wave propagation within a rock or rock sequence.,Anisotropy (seismic),Petrophysics
+371,A measure of how quickly seismic wave energy is absorbed or attenuated as it travels through rock.,Q factor (seismic attenuation),Petrophysics
+372,A seismic analysis technique that separates data into different frequency components to reveal subtle stratigraphic or structural features.,Spectral decomposition,Petrophysics
+373,"A seismic attribute that measures the similarity of waveforms between adjacent traces, commonly used to highlight faults and discontinuities.",Coherence attribute,Petrophysics
+374,"A seismic attribute that measures the bending of a mapped horizon, used to identify subtle structural features such as fractures.",Curvature attribute,Petrophysics
+375,A seismic inversion method that estimates acoustic or elastic impedance from seismic reflection data.,Impedance inversion,Petrophysics
+376,"A seismic inversion technique that estimates multiple rock properties, such as P-wave and S-wave impedance, from prestack seismic data.",Elastic inversion,Petrophysics
+377,The study of the relationships between the physical properties of rocks and the seismic or geophysical measurements used to detect them.,Rock physics,Petrophysics
+378,"A quantitative framework linking rock and fluid properties, such as porosity and saturation, to seismic velocity and density.",Rock physics model,Petrophysics
+379,A rock physics equation relating the elastic properties of a rock to changes in its pore fluid content.,Gassmann's equation,Petrophysics
+380,"An advanced seismic processing technique that iteratively updates a velocity model by matching the complete recorded waveform, rather than only travel times.",Full waveform inversion (FWI),Petrophysics
+381,"A geophysical technique that uses background seismic noise, rather than an active source, to image or monitor the subsurface.",Ambient noise seismology,Petrophysics
+382,"The detection and analysis of small seismic events, often used to monitor hydraulic fracturing or reservoir activity.",Microseismic monitoring,Petrophysics
+383,"A geophysical method that records naturally occurring or induced seismic energy without using an active, controlled source.",Passive seismic,Petrophysics
+384,The process of recording seismic data on land using sources and receivers deployed across the survey area.,Land seismic acquisition,Petrophysics
+385,The process of recording seismic data at sea using a vessel-towed source and streamer or ocean-bottom receivers.,Marine seismic acquisition,Petrophysics
+386,A standalone seismic receiver placed directly on the seafloor to record data independent of a towed streamer.,Ocean bottom node (OBN),Petrophysics
+387,"A seismic acquisition design that records data over a broad range of source-receiver directions, improving subsurface imaging in complex areas.",Wide-azimuth survey,Petrophysics
+388,"A seismic acquisition design that records data over a limited range of source-receiver directions, typical of conventional towed-streamer surveys.",Narrow-azimuth survey,Petrophysics
+389,The planning process that determines source and receiver geometry to achieve desired subsurface imaging objectives.,Survey design (seismic),Petrophysics
+390,"A survey that precisely measures the shape, size, and gravitational field of the Earth, often supporting geophysical interpretation.",Geodetic survey,Petrophysics
+391,A magnetic survey conducted using instruments mounted on an aircraft to measure variations in the Earth's magnetic field over large areas.,Aeromagnetic survey,Petrophysics
+392,"A geophysical technique that measures spatial variations in the rate of change of the gravitational field, offering higher-resolution density information.",Gravity gradiometry,Petrophysics
+393,"A rock property estimated from seismic velocities, describing how a rock deforms perpendicular to an applied stress, useful in fluid and lithology discrimination.",Poisson's ratio (from seismic),Petrophysics
+394,"The ratio of compressional wave velocity to shear wave velocity in a rock, commonly used to help distinguish lithology and fluid content.",Vp/Vs ratio,Petrophysics
+395,The complete spatial and temporal distribution of seismic wave energy as it propagates through the subsurface.,Wavefield,Petrophysics
+396,"The scattering of seismic energy from a small subsurface feature, such as a fault edge or pinch-out, producing a distinctive wave pattern.",Diffraction (seismic),Petrophysics
+397,A modeling technique that simulates the path of seismic energy through a velocity model to predict travel times.,Ray tracing,Petrophysics
+398,A technique that reconstructs a subsurface velocity model using travel times recorded from many source-receiver combinations.,Tomography (seismic),Petrophysics
+399,"Specialized software used by geophysicists to visualize, analyze, and interpret seismic and well data.",Interpretation workstation,Petrophysics
+400,A measure of how well a synthetic seismogram matches the actual recorded seismic data at a well location.,Seismic-to-well tie quality,Petrophysics
+401,"A controlled operation in which a well is produced under monitored conditions to gather data on flow rate, pressure, and fluid properties.",Well test,Production
+402,A test conducted to determine a well's production capacity and the characteristics of the fluids it produces.,Production test,Production
+403,"A prolonged production test, often lasting weeks or months, conducted to gather long-term reservoir performance and fluid data ahead of full field development.",Extended well test (EWT),Production
+404,"A pressure transient test in which a well is shut in after a period of production, and the resulting pressure rise is recorded over time.",Buildup test,Production
+405,A pressure transient test in which a well is placed on production at a constant rate while the resulting pressure decline is recorded.,Drawdown test,Production
+406,A test in which fluid is injected into a well to evaluate formation properties such as permeability and injectivity.,Injection test,Production
+407,A pressure transient test in which an injection well is shut in and the resulting pressure decline is recorded.,Falloff test,Production
+408,A multi-well test in which one well is produced or injected while pressure response is monitored in one or more offset wells.,Interference test,Production
+409,A type of interference test in which short pulses of production or injection are used to determine reservoir connectivity between wells.,Pulse test,Production
+410,The interpretation of pressure changes over time during a well test to estimate reservoir and well properties.,Pressure transient analysis (PTA),Production
+411,"A test used to determine the relationship between a well's flow rate and its flowing bottomhole pressure, especially in gas wells.",Deliverability test,Production
+412,A well test conducted at several different flow rates to characterize well performance and reservoir behavior.,Multi-rate test,Production
+413,"A gas well deliverability test in which the well is produced at several rates for equal time periods, with shut-in periods between each.",Isochronal test,Production
+414,"A variation of the isochronal test in which shut-in periods are shortened, making the test faster to conduct while preserving key data.",Modified isochronal test,Production
+415,A gas well deliverability test conducted at successively increasing flow rates without intervening shut-in periods.,Flow after flow test,Production
+416,The theoretical maximum rate at which a gas well could flow against atmospheric pressure at the wellhead.,Absolute open flow potential (AOF),Production
+417,"A treatment applied to a well, such as acidizing or fracturing, intended to improve its productivity by reducing near-wellbore restrictions or enhancing permeability.",Stimulation (well),Production
+418,"The specific goals defined before a well test, such as estimating permeability, skin, reservoir pressure, or boundary distance.",Well testing objectives,Production
+419,The process of assembling and connecting surface and downhole equipment at the wellsite in preparation for a well test.,Test rig-up,Production
+420,"A well testing effect caused by fluid expansion or compression within the wellbore itself, which can mask early-time reservoir response.",Wellbore storage,Production
+421,The approximate distance into the reservoir that a pressure transient has affected at a given time during a well test.,Radius of investigation,Production
+422,The pressure measured at the bottom of a wellbore while the well is actively producing.,Flowing bottomhole pressure (FBHP),Production
+423,The pressure measured at the bottom of a wellbore after it has been shut in long enough to stabilize.,Static bottomhole pressure (SBHP),Production
+424,The pressure recorded at the wellhead or bottomhole after a well has been closed off from production or injection.,Shut-in pressure,Production
+425,"The pressure measured at the surface equipment of a well, either while flowing or shut in.",Wellhead pressure,Production
+426,"An instrument placed downhole to record pressure, and often temperature, during a well test.",Bottomhole pressure gauge,Production
+427,A tool run into a well to continuously measure and log pressure data at depth during a test.,Downhole pressure recorder,Production
+428,A downhole pressure and temperature recorder that stores data internally for retrieval after the tool is removed from the well.,Memory gauge,Production
+429,A downhole pressure and temperature gauge that transmits real-time data to surface during a well test.,Surface readout (SRO) gauge,Production
+430,"Surface equipment used during a well test to separate produced fluids into oil, gas, and water phases for individual measurement.",Test separator,Production
+431,"A device that measures the flow rates of oil, gas, and water simultaneously without requiring separation of the phases.",Multiphase flow meter,Production
+432,The diameter of the restriction used at surface or downhole to control the flow rate of a well during testing or production.,Choke size,Production
+433,"A measure of a well's ability to produce fluid, expressed as the flow rate per unit of pressure drawdown.",Productivity index (PI),Production
+434,A curve describing the relationship between a well's flowing bottomhole pressure and its corresponding production rate.,Inflow performance relationship (IPR),Production
+435,"A curve describing the relationship between wellhead pressure and flow rate, accounting for pressure losses as fluid travels up the tubing.",Vertical lift performance (VLP),Production
+436,A method that combines inflow and outflow performance relationships at a common point in the well system to predict production rates.,Nodal analysis,Production
+437,The study of pressure and flow behavior of fluids as they move through the tubing and wellbore during production.,Wellbore hydraulics,Production
+438,The interpretation of well performance data collected at multiple flow rates to establish a deliverability relationship.,Multi-rate deliverability analysis,Production
+439,A well test interpretation technique that compares measured pressure or rate data to a family of standard reservoir response curves.,Type curve matching,Production
+440,"A graph with both axes on logarithmic scales, commonly used in pressure transient analysis to identify flow regimes.",Log-log plot,Production
+441,A specialized semi-log plot used to analyze buildup test data and estimate reservoir pressure and permeability.,Horner plot,Production
+442,A well test interpretation method that plots pressure against the logarithm of time to identify straight-line flow trends.,Semi-log analysis,Production
+443,"A diagnostic plot of the rate of change of pressure with respect to the logarithm of time, used to identify flow regimes during a well test.",Derivative plot,Production
+444,"A characteristic pattern of fluid movement toward the wellbore during a specific period of a well test, such as radial or linear flow.",Flow regime,Production
+445,A flow regime in which fluid moves toward the wellbore from all directions within a cylindrical pattern.,Radial flow,Production
+446,"A flow regime in which fluid moves toward the wellbore along parallel flow paths, often observed in fractured or channel reservoirs.",Linear flow,Production
+447,A change in pressure behavior observed during a well test caused by the pressure transient reaching a reservoir boundary or barrier.,Boundary effect,Production
+448,"A reservoir limit, such as a sealing fault, across which fluid cannot flow, identified through its effect on pressure transient data.",No-flow boundary,Production
+449,"A reservoir limit, such as an aquifer or gas cap, that maintains pressure support and influences pressure transient behavior.",Constant-pressure boundary,Production
+450,An extended well test designed to estimate the drainage area or connected volume of a reservoir.,Reservoir limit test,Production
+451,"The representative pressure across a reservoir or drainage area, often estimated from extended buildup test data.",Average reservoir pressure,Production
+452,"A theoretical pressure value obtained by extending the straight-line portion of a buildup plot, used to estimate reservoir pressure.",Extrapolated pressure (P*),Production
+453,"A parameter combining reservoir permeability and net pay thickness, commonly derived from well test analysis.",Permeability-thickness product (kh),Production
+454,"A reservoir property combining permeability, thickness, and fluid viscosity, describing the ease with which fluid can flow through the formation.",Transmissibility,Production
+455,"The initial flow period after a well is opened, during which drilling or completion fluids and debris are removed from the near-wellbore area.",Wellbore cleanup,Production
+456,The flow period conducted following well completion or stimulation to remove residual fluids before formal testing begins.,Cleanup flow,Production
+457,"The controlled return of injected fluids, such as fracturing fluid, to surface following a stimulation treatment.",Flowback,Production
+458,"A single-strand wire used to run and retrieve small tools in a wellbore, commonly used for gauge deployment during testing.",Slickline,Production
+459,"A continuous length of flexible steel tubing spooled on a reel, used to convey tools and fluids into a wellbore for testing or intervention.",Coiled tubing,Production
+460,"A tool placed near the reservoir that allows a well to be shut in at depth rather than at surface, reducing wellbore storage effects.",Downhole shut-in tool,Production
+461,The assembly of tubing and downhole tools run into a well specifically to conduct a well test.,Test string,Production
+462,A downhole device used to seal the annulus and isolate a specific zone of interest during a well test.,Packer (testing),Production
+463,A valve installed in the test string that allows the well to be closed off at depth during shut-in periods of a test.,Downhole shut-in valve (DHSV),Production
+464,"Wellhead equipment used during a well test to control flow, monitor pressure, and provide a means of well control at surface.",Surface test tree,Production
+465,The assembly of valves and fittings installed at the wellhead to control the flow of fluids from a producing well.,Christmas tree,Production
+466,The set of procedures and equipment used to maintain control of pressure and flow during testing operations.,Well control (testing operations),Production
+467,"The controlled combustion of produced gas at surface, often used during well testing when no pipeline or storage is available.",Flaring,Production
+468,A surface structure used to safely direct and combust produced gas during flow testing operations.,Burner boom,Production
+469,"The process of collecting representative samples of produced oil, gas, or water during a well test for laboratory analysis.",Sampling (fluid),Production
+470,"A fluid sample collected directly from downhole conditions, preserving original reservoir pressure and temperature characteristics.",Bottomhole sample,Production
+471,"A fluid sample collected at surface equipment during a well test, typically at separator or wellhead conditions.",Surface sample,Production
+472,"The ratio of the volume of gas produced to the volume of oil produced, measured at surface conditions.",Gas-oil ratio (GOR),Production
+473,The percentage of water present in the total liquid volume produced by a well.,Water cut,Production
+474,"The volume of liquid hydrocarbons recovered per unit volume of gas produced, typical of gas condensate wells.",Condensate yield,Production
+475,A test used to characterize how flow rate changes with different choke sizes under a given set of well conditions.,Choke performance test,Production
+476,A flow condition through a choke in which the flow rate becomes independent of downstream pressure.,Critical flow,Production
+477,A staged process of gradually increasing choke size to bring a well to a target flow rate while managing pressure and sand production.,Bean-up procedure,Production
+478,The process of detecting and measuring the amount of formation sand produced along with reservoir fluids during a test.,Sand production monitoring,Production
+479,The flow velocity above which excessive erosion of tubing or surface equipment may occur due to produced sand or high rates.,Erosional velocity,Production
+480,"The planning process used to define objectives, duration, rates, and equipment required for a specific well test.",Well test design,Production
+481,"The total length of time allotted for a well test, including flow and shut-in periods, to achieve reliable data.",Test duration,Production
+482,A mathematical principle used to account for the effects of multiple rate changes when analyzing pressure transient data.,Superposition (well testing),Production
+483,"A technique used in well test analysis to adjust pressure data for varying flow rates, allowing comparison across different periods.",Rate normalization,Production
+484,An analytical technique that converts variable-rate pressure data into an equivalent constant-rate response for interpretation.,Deconvolution (well testing),Production
+485,"Pressure or rate data recorded shortly after a rate change in a well test, often influenced by wellbore storage effects.",Early-time data,Production
+486,"Pressure or rate data recorded during the period of a well test that reflects the dominant reservoir flow regime, such as radial flow.",Middle-time data,Production
+487,"Pressure or rate data recorded near the end of a well test, often influenced by reservoir boundaries or interference effects.",Late-time data,Production
+488,Specialized software used to analyze pressure and rate data from a well test and estimate reservoir and well parameters.,Test interpretation software,Production
+489,A numerical representation of a well and reservoir system used to match observed test data and validate interpreted parameters.,Simulation model (well test),Production
+490,The process of adjusting model parameters until simulated pressure or rate data matches observed well test measurements.,History matching (well test),Production
+491,"The distance from the wellbore to the tip of an induced hydraulic fracture, often estimated from well test analysis.",Fracture half-length,Production
+492,"A measure of the ability of a hydraulic fracture to conduct fluid, combining fracture permeability and width.",Fracture conductivity,Production
+493,"A reservoir model that represents fluid flow through two distinct systems, such as rock matrix and natural fractures.",Dual porosity model,Production
+494,"A well test interpretation model that accounts for changes in reservoir properties, such as permeability, across a defined boundary.",Composite reservoir model,Production
+495,A well test designed to evaluate the individual contribution and properties of multiple productive layers within a single well.,Layered reservoir testing,Production
+496,"A downhole tool run to measure flow profile, fluid composition, and other parameters along the length of a producing wellbore.",Production logging tool (PLT),Production
+497,A production logging measurement using a rotating device to determine fluid velocity within the wellbore at different depths.,Spinner survey,Production
+498,A downhole temperature measurement used to identify producing intervals and detect anomalies such as crossflow or leaks.,Temperature survey (production),Production
+499,"A measurement of how injected fluid is distributed along the length of a wellbore, typically obtained via production logging.",Injection profile,Production
+500,"The unintended movement of fluid between different zones within a wellbore, often detected using production logging tools.",Crossflow,Production
