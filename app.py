@@ -3,7 +3,7 @@ import pandas as pd
 import random
 import os
 from datetime import datetime
-import pyttsx3
+
  
 # Configure page
 st.set_page_config(
@@ -60,9 +60,7 @@ if 'current_question_idx' not in st.session_state:
     st.session_state.current_question_idx = None
 if 'show_answer' not in st.session_state:
     st.session_state.show_answer = False
-if 'engine' not in st.session_state:
-    st.session_state.engine = pyttsx3.init()
-    st.session_state.engine.setProperty('rate', 150)
+
  
 # Load data
 @st.cache_data
@@ -79,11 +77,7 @@ def save_data(df):
  
 # Function to read text
 def read_text(text):
-    try:
-        st.session_state.engine.say(text)
-        st.session_state.engine.runAndWait()
-    except:
-        st.warning("Error reading text. Make sure pyttsx3 is properly installed.")
+    st.info("🔈 El audio ha sido desactivado para la versión web.")
  
 # Load data
 df = load_data()
