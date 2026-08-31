@@ -92,7 +92,7 @@ st.divider()
 st.sidebar.title("📋 Main Menu")
 option = st.sidebar.radio(
     "Select an option:",
-    ["🏠 Dashboard", "➕ Add Questions", "🎲 Questions by Area", "🌀 Completely Random"]
+    ["🏠 Dashboard", "➕ Add Questions", "🎲 Questions by Area", "🌀 Completely Random", "🏆 Competition Mode"]
 )
  
 # ====== OPTION 1: DASHBOARD ======
@@ -304,3 +304,69 @@ elif option == "🌀 Completely Random":
                 
                 if st.button("🔊 Read Answer", use_container_width=True):
                     read_text(q_data['Answer'])
+# ====== OPTION 5: COMPETITION MODE ======
+elif option == "🏆 Competition Mode":
+    st.markdown("## 🏆 Competition Mode (No Repeats)")
+    
+    # "baraja" de preguntas mezcladas
+    if 'comp_pool' not in st.session_state:
+        st.session_state.comp_pool = df.index.tolist()
+        random.shuffle(st.session_state.comp_pool)
+        st.session_state.comp_current = None
+    
+    # Botón para reiniciar la baraja desde cero
+    col1, col2 = st.columns([1, 3])
+    with col1:
+        if st.button("🔄 Restart Competition", use_container_width=True):
+            st.session_state.comp_pool = df.index.tolist()
+            random.shuffle(st.session_state.comp_pool)
+            st.session_state.comp_current = None
+            st.session_state.show_answer = False
+            st.rerun()
+    with col2:
+        st.metric("Questions Remaining", len(st.session_state.comp_pool))
+        
+    st.divider()
+    
+    # Botón principal para sacar la primera pregunta
+    if st.session_state.comp_current is None:
+        if len(st.session_state.comp_pool) > 0:
+            if st.button("🎲 Draw First Question", use_container_width=True):
+                st.session_state.comp_current = st.session_state.comp_pool.pop()
+                st.session_state.show_answer = False
+                st.rerun()
+        else:
+            st.warning("🎉 All questions have been asked! Please restart the competition.")
+    
+    # Mostrar la pregunta actual en pantalla
+    if st.session_state.comp_current is not None:
+        q_data = df.loc[st.session_state.comp_current]
+        
+        st.markdown(f"**Area:** {q_data['Area']}")
+        st.markdown(f"### 📝 Question #{int(q_data['Number'])}:")
+        
+        st.markdown('<div class="question-box">', unsafe_allow_html=True)
+        st.write(q_data['Question'])
+        st.markdown('</div>', unsafe_allow_html=True)
+        
+        # Botones de control de la pregunta
+        col1, col2 = st.columns(2)
+        with col1:
+            if st.button("💬 Show Answer", use_container_width=True):
+                st.session_state.show_answer = True
+        with col2:
+            if st.button("➡️ Next Question", use_container_width=True):
+                if len(st.session_state.comp_pool) > 0:
+                    # Saca la siguiente pregunta de la baraja
+                    st.session_state.comp_current = st.session_state.comp_pool.pop()
+                    st.session_state.show_answer = False
+                else:
+                    # Si ya no hay preguntas, vuelve al inicio
+                    st.session_state.comp_current = None
+                st.rerun()
+        
+        if st.session_state.show_answer:
+            st.markdown('<div class="answer-box">', unsafe_allow_html=True)
+            st.markdown("### ✅ Answer:")
+            st.write(q_data['Answer'])
+            st.markdown('</div>', unsafe_allow_html=True)
